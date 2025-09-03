@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "DTO_Clean_Architecture.Api.Controllers.StaffInfoController",
+    "Method": "CreateNewStaffInfo",
+    "RelativePath": "StaffInfo/createNewStaffInfo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "staffInfo",
+        "Type": "DTO_Clean_Architecture.Application.Dtos.RequestModel.StaffDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DTO_Clean_Architecture.Api.Controllers.StaffInfoController",
+    "Method": "DisableStaffInfoByStaffId",
+    "RelativePath": "StaffInfo/disableStaffInfoByStaffId/{staffId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "staffId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DTO_Clean_Architecture.Api.Controllers.StaffInfoController",
+    "Method": "GetAllStaffs",
+    "RelativePath": "StaffInfo/getAllActiveStaffLists",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DTO_Clean_Architecture.Api.Controllers.StaffInfoController",
+    "Method": "UpdateStaffInfo",
+    "RelativePath": "StaffInfo/updateStaffInfo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "staffInfo",
+        "Type": "DTO_Clean_Architecture.Application.Dtos.RequestModel.StaffDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DTO_Clean_Architecture.Api.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DTO_Clean_Architecture.Api.WeatherForecast, DTO_Clean_Architecture.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

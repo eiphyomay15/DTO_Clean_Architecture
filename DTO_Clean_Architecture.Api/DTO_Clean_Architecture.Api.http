@@ -1,0 +1,6 @@
+@DTO_Clean_Architecture.Api_HostAddress = http://localhost:5160
+
+GET {{DTO_Clean_Architecture.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

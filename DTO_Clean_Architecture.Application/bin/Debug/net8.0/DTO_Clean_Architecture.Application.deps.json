@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DTO_Clean_Architecture.Application/1.0.0": {
+        "dependencies": {
+          "DTO_Clean_Architecture.Core": "1.0.0"
+        },
+        "runtime": {
+          "DTO_Clean_Architecture.Application.dll": {}
+        }
+      },
+      "DTO_Clean_Architecture.Core/1.0.0": {
+        "runtime": {
+          "DTO_Clean_Architecture.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DTO_Clean_Architecture.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DTO_Clean_Architecture.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+D:\EPM\Projects\Testing\DTO_Clean_Architecture\DTO_Clean_Architecture.Infrastructure\bin\Debug\net8.0\DTO_Clean_Architecture.Infrastructure.deps.json
+D:\EPM\Projects\Testing\DTO_Clean_Architecture\DTO_Clean_Architecture.Infrastructure\bin\Debug\net8.0\DTO_Clean_Architecture.Infrastructure.runtimeconfig.json
+D:\EPM\Projects\Testing\DTO_Clean_Architecture\DTO_Clean_Architecture.Infrastructure\bin\Debug\net8.0\DTO_Clean_Architecture.Infrastructure.dll
+D:\EPM\Projects\Testing\DTO_Clean_Architecture\DTO_Clean_Architecture.Infrastructure\bin\Debug\net8.0\DTO_Clean_Architecture.Infrastructure.pdb
+D:\EPM\Projects\Testing\DTO_Clean_Architecture\DTO_Clean_Architecture.Infrastructure\bin\Debug\net8.0\DTO_Clean_Architecture.Core.dll
+D:\EPM\Projects\Testing\DTO_Clean_Architecture\DTO_Clean_Architecture.Infrastructure\bin\Debug\net8.0\DTO_Clean_Architecture.Core.pdb
+D:\EPM\Projects\Testing\DTO_Clean_Architecture\DTO_Clean_Architecture.Infrastructure\obj\Debug\net8.0\DTO_Clean_Architecture.Infrastructure.csproj.AssemblyReference.cache
+D:\EPM\Projects\Testing\DTO_Clean_Architecture\DTO_Clean_Architecture.Infrastructure\obj\Debug\net8.0\DTO_Clean_Architecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPM\Projects\Testing\DTO_Clean_Architecture\DTO_Clean_Architecture.Infrastructure\obj\Debug\net8.0\DTO_Clean_Architecture.Infrastructure.AssemblyInfoInputs.cache
+D:\EPM\Projects\Testing\DTO_Clean_Architecture\DTO_Clean_Architecture.Infrastructure\obj\Debug\net8.0\DTO_Clean_Architecture.Infrastructure.AssemblyInfo.cs
+D:\EPM\Projects\Testing\DTO_Clean_Architecture\DTO_Clean_Architecture.Infrastructure\obj\Debug\net8.0\DTO_Clean_Architecture.Infrastructure.csproj.CoreCompileInputs.cache
+D:\EPM\Projects\Testing\DTO_Clean_Architecture\DTO_Clean_Architecture.Infrastructure\obj\Debug\net8.0\DTO_Clea.2E1D27EB.Up2Date
+D:\EPM\Projects\Testing\DTO_Clean_Architecture\DTO_Clean_Architecture.Infrastructure\obj\Debug\net8.0\DTO_Clean_Architecture.Infrastructure.dll
+D:\EPM\Projects\Testing\DTO_Clean_Architecture\DTO_Clean_Architecture.Infrastructure\obj\Debug\net8.0\refint\DTO_Clean_Architecture.Infrastructure.dll
+D:\EPM\Projects\Testing\DTO_Clean_Architecture\DTO_Clean_Architecture.Infrastructure\obj\Debug\net8.0\DTO_Clean_Architecture.Infrastructure.pdb
+D:\EPM\Projects\Testing\DTO_Clean_Architecture\DTO_Clean_Architecture.Infrastructure\obj\Debug\net8.0\DTO_Clean_Architecture.Infrastructure.genruntimeconfig.cache
+D:\EPM\Projects\Testing\DTO_Clean_Architecture\DTO_Clean_Architecture.Infrastructure\obj\Debug\net8.0\ref\DTO_Clean_Architecture.Infrastructure.dll
